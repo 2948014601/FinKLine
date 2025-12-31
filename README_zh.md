@@ -10,7 +10,7 @@
 <p align="center">
   <a href="./README.md">English</a> · <a href="#-中文">中文</a>
 </p>
-## 🌍中文
+##🌍中文
 
 您也可以访问此链接获取：https://github.com/zhang-jinyi/FinKLine
 
@@ -23,13 +23,13 @@
 
 - 🖼️ **训练样例图片（预览）**
   - `images/20250303` 含 **30** 张 K 线图图片，用于快速检查与复现实验流程。
-  - **20250303：**https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
+  - **20250303**:https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
 - 🔁 **滚动预测测试图片**
   - `imagestest-0317/20250317` 含 **500** 张图片，用于固定历史窗口的滚动预测评测。
-  - **20250317：**https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
+  - **20250317**:https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
 - 🧪 **FinKLine-DB-test 测试图片**
   - `imagestest-0825/20250825` 含 **500** 张图片，对应标准测试集。
-  - **20250825：**https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
+  - **20250825**:https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
 - 🧩 **三阶段训练数据**
   - `Stage I/train_27196_cot.csv`
   - `Stage II/train_4520_png_cot.json`
@@ -96,3 +96,4 @@
 
 
 如需更多材料或有问题咨询，请通过论文中的邮箱联系作者。
+
