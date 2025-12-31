@@ -12,8 +12,9 @@
 </p>
 
 
-
 ## 🌍 English
+
+You can also access this link to obtain it: https://github.com/zhang-jinyi/FinKLine
 
 ### ✨ Overview
 This repository releases the dataset resources used in the **FinKLine** framework for **multimodal financial reasoning** and **multi-step stock price forecasting**.  

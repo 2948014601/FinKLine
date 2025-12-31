@@ -10,8 +10,9 @@
 <p align="center">
   <a href="./README.md">English</a> · <a href="#-中文">中文</a>
 </p>
-
 ## 🌍中文
+
+您也可以访问此链接获取：https://github.com/zhang-jinyi/FinKLine
 
 ### ✨ 项目简介
 
