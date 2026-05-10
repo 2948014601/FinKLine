@@ -12,9 +12,8 @@
 </p>
 
 
-## 🌍 English
 
-You can also access this link to obtain it: https://github.com/zhang-jinyi/FinKLine
+## 🌍 English
 
 ### ✨ Overview
 This repository releases the dataset resources used in the **FinKLine** framework for **multimodal financial reasoning** and **multi-step stock price forecasting**.  
@@ -23,13 +22,13 @@ It provides image folders, **stage-wise training data** (Stage I to Stage III), 
 ### 📦 What’s inside
 - 🖼️ **Training sample images (preview)**
   - `images/20250303` contains **30** candlestick chart images for quick inspection.
-  - **20250303**:https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
+  - **20250303：**https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
 - 🔁 **Rolling prediction test images**
   - `imagestest-0317/20250317` contains **500** images for rolling prediction evaluation.
-  - **20250317**:https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
+  - **20250317：**https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
 - 🧪 **FinKLine-DB-test images**
   - `imagestest-0825/20250825` contains **500** images for the standard test set.
-  - **20250825**:https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
+  - **20250825：**https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
 - 🧩 **Stage-wise training sets**
   - `Stage I/train_27196_cot.csv`
   - `Stage II/train_4520_png_cot.json`
@@ -75,22 +74,6 @@ Images are organized by date folders and follow the pattern:
 - `000001_20250317.png`
 - `000001_20250825.png`
 
-### 📌 Citation
-
-If you use this repository, please cite our paper:
-
-```
-@article{FinKLine2025,
-  title   = {FinKLine: A Multimodal Chain-of-Thought Training Framework for Stock Price Prediction},
-  author  = {Zhang, Jinyi and Wang, Shuo and Jiang, Yueqiu and Luo, Yingfeng and Tian, Ye and Xiao, Tong and Matsumoto, Tadahiro},
-  journal = {Knowledge-Based Systems},
-  year    = {2025}
-}
-```
-
-You may update bibliographic fields after acceptance.
-
 ### 📬 Contact
-
 
 For questions or access to additional materials, please contact the authors via the email provided in the paper.
